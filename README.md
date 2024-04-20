@@ -2,6 +2,8 @@
 
 ## Demo 1
 
+[Check It...](https://dev-arindam-roy.github.io/async-await-promise-demo1/)
+
 ```js
 /* Define a functions that return promise */
 const demoApi = (callNo = 1, isApiCallOk = true, timeTaken = 5000) => {
